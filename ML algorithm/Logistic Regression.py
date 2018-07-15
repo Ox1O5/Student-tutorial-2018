@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn.datasets import make_classification
 
 
-X, y = make_classification(n_samples= 300, n_features=2, n_redundant=0, n_informative=2)
+X, y = make_classification(n_samples= 50, n_features=2, n_redundant=0, n_informative=2)
 
 def sigmoid(x):
     return 1.0 / (1+np.exp(-x))
