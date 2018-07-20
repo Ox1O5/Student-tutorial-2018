@@ -2,7 +2,7 @@
 
 ## 1.Algorithm
 
-(1)Kmean#TODO
+(1)Kmeans#Done
 (2)KNN #Done
 (3)LR  #Done
 (4)Softmax  #TODO
